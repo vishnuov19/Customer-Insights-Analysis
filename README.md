@@ -13,8 +13,3 @@ To get started with this project, clone the repository to your local machine:
 ```bash
 git clone https://github.com/your-username/data-analysis-project.git
 
-Visualizations
-The visualizations generated from the data analysis are stored in the visualizations/ folder. For example, the simple_plot.png file contains a sample plot that shows the results of a basic analysis.
-
-Contributing
-Contributions are welcome! If you would like to contribute to this project, please fork the repository and submit a pull request with your changes.
